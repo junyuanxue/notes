@@ -15,3 +15,6 @@ Modern UI by Karolis
   - E.g. Redux
   - When data changes, should either only call `render` or `update`, rather than injecting something else into the DOM.
   - Rerender the whole app once something changes.
+
+
+* Example and counter-example: https://github.com/QubitProducts/tiny-atom
